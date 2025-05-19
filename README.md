@@ -16,6 +16,9 @@ U-Boot loader app for 2-4Gen Brain
 #### [boot4u](https://github.com/brain-hackers/boot4u)
 U-Boot & image of Cortex-M4 core loader for 5Gen Brain
 
+#### [7500sd-imageshow](https://github.com/pepepper/7500sd-imageshow)
+640x480 256color PoC for word prosessor OASYS LX-7500SD
+
 ### What I'm interested in...
 low layer, reverse engineering
 <!--
